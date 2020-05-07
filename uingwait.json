@@ -1,0 +1,27 @@
+{
+    "UINGbl": {},
+    "pname": {},
+    "pro_name": {},
+    "picon": {},
+    "p_icon": {},
+    "ajs": {},
+    "keyCmd": "",
+    "list": {
+        "UINGowner": {
+            "u09ac0e36c15ce4a41047614ac728d132": true,
+            "ucf8c9a082d16286dab59487d01a9f748": true
+        },
+        "admin": {},
+        "bot": [],
+        "bots": {}
+    },
+    "pro": {
+        "UINGcancel": {},
+        "UINGpinvite": {},
+        "UINGpjoin": {},
+        "UINGpqr": {},
+        "UINGprokick": {}
+    },
+    "setBL": "2",
+    "war": {}
+}
